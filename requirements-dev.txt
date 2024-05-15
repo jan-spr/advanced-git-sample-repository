@@ -1,3 +1,7 @@
 pytest
 numpy
+<<<<<<< HEAD
 pandas
+=======
+tqdm
+>>>>>>> devel
