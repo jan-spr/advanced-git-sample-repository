@@ -1,7 +1,2 @@
 pytest
-numpy
-<<<<<<< HEAD
-pandas
-=======
-tqdm
->>>>>>> devel
+pytest-cov
